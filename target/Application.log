@@ -1,0 +1,14 @@
+2019-09-25 19:37:33,673 +0530 [main] INFO  (ReadProperties.java:33) - browser launchedn Sucessfully
+2019-09-25 19:38:09,750 +0530 [main] INFO  (ReadProperties.java:39) - Sucessfullt Launched to the facebook page
+2019-09-25 19:38:09,775 +0530 [main] INFO  (ReadProperties.java:41) - The current Urlhttps://www.facebook.com/
+2019-09-25 19:38:09,776 +0530 [main] INFO  (ReadProperties.java:46) - *****Condition get failed ******
+2019-09-25 20:58:11,657 +0530 [main] INFO  (ReadProperties.java:37) - browser launchedn Sucessfully
+2019-09-25 20:58:27,335 +0530 [main] INFO  (ReadProperties.java:43) - Sucessfullt Launched to the facebook page
+2019-09-25 20:58:27,364 +0530 [main] INFO  (ReadProperties.java:45) - The current Urlhttps://www.facebook.com/
+2019-09-25 20:58:27,365 +0530 [main] INFO  (ReadProperties.java:50) - *****Condition get failed ******
+2019-09-25 22:08:44,355 +0530 [main] INFO  (ReadProperties.java:39) - browser launchedn Sucessfully
+2019-09-25 22:08:57,208 +0530 [main] INFO  (ReadProperties.java:45) - Sucessfullt Launched to the facebook page
+2019-09-25 22:08:57,217 +0530 [main] INFO  (ReadProperties.java:47) - The current Urlhttps://www.facebook.com/
+2019-09-25 22:08:57,217 +0530 [main] INFO  (ReadProperties.java:52) - *****Condition get failed ******
+2019-09-25 22:12:31,411 +0530 [main] INFO  (HealessBrowser.java:34) - browser launchedn Sucessfully
+2019-09-25 22:14:38,149 +0530 [main] INFO  (HealessBrowser.java:33) - browser launchedn Sucessfully
